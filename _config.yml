@@ -24,7 +24,7 @@ name                     : "Motorsportsfan"
 description              : "F1からWRCまで、国内外のモータースポーツの総合ニュースサイト"
 url                      : "https://motorsportsfan.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : motorsportsfan/motorsportsfan.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -228,7 +228,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo
 
 
 # Pagination with jekyll-paginate
