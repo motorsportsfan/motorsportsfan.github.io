@@ -1,13 +1,7 @@
 main:
   - title: "ホーム"
-    url: "https://motorsportsfan.github.io/"
-  - title: "F1"
-    url: "/categories/F1/"
-  - title: "MotoGP"
-    url: "/categories/MotoGP/"
-  - title: "WRC"
-    url: "/categories/WRC/"
-  - title: "このサイトについて"
-    url: "/about/"
-
-
+    url: /
+  - title: "カテゴリ"
+    url: /categories/
+  - title: "タグ"
+    url: /tags/
