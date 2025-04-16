@@ -1,6 +1,6 @@
 main:
   - title: "ホーム"
-    url: "/"
+    url: "https://motorsportsfan.github.io/"
   - title: "F1"
     url: "/categories/F1/"
   - title: "MotoGP"
