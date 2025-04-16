@@ -8,6 +8,8 @@ tags:
   - バーレーンGP
   - 開幕戦
   - ニュース
+layout: single
+author_profile: true
 ---
 
 2025年のF1シーズンが開幕！  
