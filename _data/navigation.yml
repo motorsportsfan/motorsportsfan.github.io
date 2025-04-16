@@ -1,0 +1,11 @@
+main:
+  - title: "ホーム"
+    url: "/"
+  - title: "F1"
+    url: "/categories/F1/"
+  - title: "MotoGP"
+    url: "/categories/MotoGP/"
+  - title: "WRC"
+    url: "/categories/WRC/"
+  - title: "このサイトについて"
+    url: "/about/"
