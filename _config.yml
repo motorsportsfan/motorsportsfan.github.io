@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "X（旧Twitter）"
       icon: "fa-brands fa-x-twitter"
-      # url: "https://x.com"
+      # url: "https://x.com/あなたのユーザー名"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -143,7 +143,7 @@ footer:
   links:
     - label: "X（旧Twitter）"
       icon: "fa-brands fa-x-twitter"
-      # url:https://x.com
+      # url: "https://x.com/あなたのユーザー名"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
