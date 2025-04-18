@@ -10,6 +10,7 @@ tags:
   - ニュース
 layout: single
 author_profile: true
+share: true
 ---
 
 2025年のF1シーズンが開幕！  
